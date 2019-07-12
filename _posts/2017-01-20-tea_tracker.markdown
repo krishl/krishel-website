@@ -3,8 +3,8 @@ layout: post
 title:  "Brewteaful"
 date:   2017-01-20 07:36:24 -0500
 Author: Krishel Lasam
-categories: [project]
-tags: [sinatra]
+categories: 
+tags: [project, sinatra]
 comments: true
 ---
 

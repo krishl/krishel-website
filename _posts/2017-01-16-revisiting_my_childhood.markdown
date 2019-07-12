@@ -3,8 +3,8 @@ layout: post
 title:  "Revisiting My Childhood"
 date:   2017-01-16 05:22:31 -0500
 Author: Krishel Lasam
-categories: [journey]
-tags: 
+categories:
+tags: [journey]
 comments: true
 ---
 
