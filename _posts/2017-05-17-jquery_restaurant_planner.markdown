@@ -2,10 +2,13 @@
 layout: post
 title:  Jquery Restaurant Planner
 date:   2017-05-17 06:50:22 -0400
+categories: [project]
+tags: [ruby, javascript, jquery]
+comments: true
 ---
 
 
-This project required me to take my existing rails project and add javascript capabilities to it.
+This project required me to take my existing Rails project and add JavaScript capabilities to it.
 
 In order to load my index pages via jQuery and an Active Model Serialization JSON Backend, I first added the Active Model Serializer gem into my Gemfile and ran `rails g serializer restaurant` and `rails g serializer food` in my terminal to create the serializers. I added additional attributes to the serializers, since I wanted more information than just their ids. Next, I added event listeners to both models in order to listen for button clicks. For every click event that occurs on the "Sort By Restaurant" button or on the "Sort by Menu Item" button, an AJAX request is fired to retrieve the data necessary for the page. After the necessary JSON data was retrieved, I iterated over it using the `forEach()` method.
 

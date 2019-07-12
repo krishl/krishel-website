@@ -3,7 +3,7 @@ layout: post
 title:  "Potatotainment"
 date:   2017-01-16 06:10:38 -0500
 Author: Krishel Lasam
-categories: project
+categories: [project]
 tags: [ruby]
 comments: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "Restaurant Planner"
 date:   2017-04-22 23:19:02 -0400
 Author: Krishel Lasam
-categories: project
+categories: [project]
 tags: [ruby]
 comments: true
 ---
