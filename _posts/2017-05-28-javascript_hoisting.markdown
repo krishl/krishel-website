@@ -1,7 +1,11 @@
 ---
 layout: post
-title:  Javascript Hoisting
+title:  "Javascript Hoisting"
 date:   2017-05-28 03:09:46 -0400
+Author: Krishel Lasam
+categories: 
+tags: [javascript]
+comments: false
 ---
 
 

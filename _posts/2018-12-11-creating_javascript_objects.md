@@ -3,6 +3,10 @@ layout: post
 title:      "Creating JavaScript Objects"
 date:       2018-12-11 10:57:58 -0400
 permalink:  creating_javascript_objects
+Author: Krishel Lasam
+categories: 
+tags: [javascript]
+comments: false
 ---
 
 Jim Cooper's [JavaScript Objects and Prototypes](https://app.pluralsight.com/library/courses/javascript-objects-prototypes/table-of-contents) course on Pluralsight teaches the in-depth, behind-the-scenes details of creating JavaScript objects, manipulating properties, and using prototypal inheritance. Here are my notes from the first section of the video series, called "Creating JavaScript Objects".

@@ -5,7 +5,7 @@ date:   2017-01-16 05:22:31 -0500
 Author: Krishel Lasam
 categories:
 tags: [journey]
-comments: true
+comments: false
 ---
 
 

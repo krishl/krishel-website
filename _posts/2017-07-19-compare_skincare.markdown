@@ -2,6 +2,10 @@
 layout: post
 title:  "Compare Skincare"
 date:   2017-07-19 14:02:53 +0000
+Author: Krishel Lasam
+categories: 
+tags: [project, ruby, rails, javascript, react]
+comments: false
 ---
 
 

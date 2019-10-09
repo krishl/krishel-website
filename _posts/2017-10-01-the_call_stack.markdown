@@ -2,6 +2,10 @@
 layout: post
 title:  "The Call Stack"
 date:   2017-10-01 23:41:29 -0400
+Author: Krishel Lasam
+categories: 
+tags: [computer science]
+comments: false
 ---
 
 

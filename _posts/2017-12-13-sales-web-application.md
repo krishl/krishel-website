@@ -3,6 +3,10 @@ layout: post
 title:      "Sales Web Application"
 date:       2017-12-13 9:11:31 -0400
 permalink:  sales_web_application
+Author: Krishel Lasam
+categories: 
+tags: [python]
+comments: false
 ---
 
 

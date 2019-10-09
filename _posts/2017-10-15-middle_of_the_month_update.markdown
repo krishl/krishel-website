@@ -3,6 +3,10 @@ layout: post
 title:      "Middle of the Month Update"
 date:       2017-10-15 10:51:25 -0400
 permalink:  middle_of_the_month_update
+Author: Krishel Lasam
+categories: 
+tags: [journey]
+comments: false
 ---
 
 It's the middle of October, and it's a perfect time to go through the things I'm currently up to!

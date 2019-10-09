@@ -5,7 +5,7 @@ date:   2017-01-20 07:36:24 -0500
 Author: Krishel Lasam
 categories: 
 tags: [project, sinatra]
-comments: true
+comments: false
 ---
 
 

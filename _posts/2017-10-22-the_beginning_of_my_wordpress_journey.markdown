@@ -3,6 +3,10 @@ layout: post
 title:      "The Begining of my WordPress Journey"
 date:       2017-10-22 9:00:25 -0400
 permalink:  the_beginning_of_my_wordpress_journey
+Author: Krishel Lasam
+categories: 
+tags: [journey, wordpress]
+comments: false
 ---
 
 This week for my eCommerce project, I switched the webhost over to Siteground and also switched platforms over to Woocommerce on Wordpress.

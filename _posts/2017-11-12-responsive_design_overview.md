@@ -3,6 +3,10 @@ layout: post
 title:      "Responsive Design Overview"
 date:       2017-11-12 10:39:31 -0400
 permalink:  responsive_design_overview
+Author: Krishel Lasam
+categories: 
+tags: [optimization]
+comments: false
 ---
 
 Technology has evolved immensely over the past two decades and people now have different sized devices to use at their disposal. 

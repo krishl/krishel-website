@@ -3,6 +3,10 @@ layout: post
 title:      "JavaScript Drum Kit Notes"
 date:       2018-12-08 11:40:48 -0400
 permalink:  javascript_drum_kit_notes
+Author: Krishel Lasam
+categories: 
+tags: [javascript]
+comments: false
 ---
 
 I recently worked through the first video of Wes Bos's Javascript 30 series. The key topics of this video covered: keypress events, playing audio, listening for `transitionend` event, and `animationend` event.

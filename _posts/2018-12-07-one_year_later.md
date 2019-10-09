@@ -3,6 +3,10 @@ layout: post
 title:      "One Year Later"
 date:       2018-12-07 10:16:05 -0400
 permalink:  one_year_later
+Author: Krishel Lasam
+categories: 
+tags: [journey, javascript]
+comments: false
 ---
 
 It looks like it's been nearly a year since my last blog post! It's nice to be revisiting this blog once again.

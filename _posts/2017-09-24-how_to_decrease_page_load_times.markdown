@@ -2,6 +2,10 @@
 layout: post
 title:  "How to decrease page load times"
 date:   2017-09-24 19:10:22 -0400
+Author: Krishel Lasam
+categories: 
+tags: [optimization]
+comments: false
 ---
 
 

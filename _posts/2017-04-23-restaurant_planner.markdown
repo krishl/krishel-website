@@ -4,8 +4,8 @@ title:  "Restaurant Planner"
 date:   2017-04-22 23:19:02 -0400
 Author: Krishel Lasam
 categories: 
-tags: [project, ruby]
-comments: true
+tags: [project, ruby, rails]
+comments: false
 ---
 
 

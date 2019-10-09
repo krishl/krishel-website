@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Jquery Restaurant Planner
+title:  "Jquery Restaurant Planner"
 date:   2017-05-17 06:50:22 -0400
 categories:
-tags: [project, ruby, javascript, jquery]
-comments: true
+tags: [project, ruby, rails, javascript, jquery]
+comments: false
 ---
 
 
