@@ -9,7 +9,7 @@ tags: [javascript]
 comments: false
 ---
 
-I recently worked through the first video of Wes Bos's Javascript 30 series. The key topics of this video covered: keypress events, playing audio, listening for `transitionend` event, and `animationend` event.
+I recently worked through the first video of Wes Bos's Javascript 30 series. The key topics of this video covered: keypress events, playing audio, listening for the `transitionend` event, and listening for the `animationend` event.
 
 1. Each `keypress` event has a corresponding `keycode` that is associated with that key
 2. Data attributes in JavaScript 
