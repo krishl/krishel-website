@@ -5,7 +5,7 @@ date:       2017-11-05 11:28:25 -0400
 permalink:  wordpress_hooks
 Author: Krishel Lasam
 categories: 
-tags: [journey, wordpress]
+tags: [wordpress]
 comments: false
 ---
 
