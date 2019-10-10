@@ -17,7 +17,7 @@ Everybody is different in their own way, and this statement does not exclude our
  
  View my blog post about Luminance at  [https://krishl.github.io/compare_skincare/](https://krishl.github.io/compare_skincare/)
 
-Links: [GitHub](https://github.com/krishl/sk-client) | [Demo](https://youtu.be/OR25Jn-b5Hs) | [Live](https://whispering-reaches-27170.herokuapp.com/)
+[GitHub](https://github.com/krishl/sk-client) | [Demo](https://youtu.be/OR25Jn-b5Hs) | [Live](https://whispering-reaches-27170.herokuapp.com/)
 
 ---
 
@@ -34,8 +34,7 @@ This Rails app was created for those who often discover new restaurants and food
 
 View my blog posts about PlanEat at [https://krishl.github.io/restaurant_planner/](https://krishl.github.io/restaurant_planner/) and [https://krishl.github.io/jquery_restaurant_planner/](https://krishl.github.io/jquery_restaurant_planner/)
 
-
-Links: [GitHub](https://github.com/krishl/restaurant-planner) | [Demo](https://youtu.be/dHIpagwbFAg)
+[GitHub](https://github.com/krishl/restaurant-planner) | [Demo](https://youtu.be/dHIpagwbFAg)
 
 ---
 
@@ -52,7 +51,7 @@ Brewteaful is a tool designed for tea lovers who would like an easier way to kee
 
 View my blog post about BrewTeaful at [https://krishl.github.io/tea_tracker/](https://krishl.github.io/tea_tracker/)
 
-Links: [GitHub](https://github.com/krishl/tea-tracker) | [Demo](https://youtu.be/ePRSymu5SNw) | [Live](https://calm-stream-16313.herokuapp.com/)
+[GitHub](https://github.com/krishl/tea-tracker) | [Demo](https://youtu.be/ePRSymu5SNw) | [Live](https://calm-stream-16313.herokuapp.com/)
 
 ---
 
@@ -67,5 +66,4 @@ This Ruby gem lists all currently trending shows and movies along with their res
 
 View my blog post about Potatotainment at [https://krishl.github.io/trending_entertainment_cli_gem/](https://krishl.github.io/trending_entertainment_cli_gem/)
 
-
-Links: [GitHub](https://github.com/krishl/trending-entertainment-cli-app) | [Demo](https://youtu.be/WzMI70dfPSE) | [Live](https://rubygems.org/gems/trending_entertainment_cli_app)
+[GitHub](https://github.com/krishl/trending-entertainment-cli-app) | [Demo](https://youtu.be/WzMI70dfPSE) | [Live](https://rubygems.org/gems/trending_entertainment_cli_app)
