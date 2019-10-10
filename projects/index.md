@@ -57,7 +57,7 @@ View my blog post about BrewTeaful at [https://krishl.github.io/tea_tracker/](ht
 
 ![Potatotainment](https://angel.co/cdn-cgi/image/width=207,height=132,format=auto,fit=scale-down/https://s3.amazonaws.com/poly-screenshots.angel.co/Project/b5/610218/ab63c0e64da5bc0d1301e8e15f4832aa-original.png)
 
-  ***Potatotainment** - Displays currently trending entertainment based on live check-ins*
+  ***Potatotainment** - Displays currently trending entertainment based on real-time check-in data*
 
 This Ruby gem lists all currently trending shows and movies along with their respective details based on real-time check-in data from Trakt.tv for those who are having a hard time deciding what to watch.
  
