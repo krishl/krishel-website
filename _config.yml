@@ -7,12 +7,12 @@ navigation:
     url: /
   - name: About
     url: /about
+  - name: Projects
+    url: /projects
   - name: Archive
     url: /archive
   - name: Tags
     url: /tags
-  - name: Projects
-    url: /projects
     
 paginate: 8
 excerpt_separator: <!-- more -->
