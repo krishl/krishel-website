@@ -11,8 +11,8 @@ navigation:
     url: /projects
   - name: Tags
     url: /tags
-  - name: Archive
-    url: /archive
+#  - name: Archive
+#    url: /archive
     
 paginate: 8
 excerpt_separator: <!-- more -->
