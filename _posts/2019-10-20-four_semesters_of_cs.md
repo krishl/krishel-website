@@ -5,7 +5,7 @@ date:       2019-10-20 12:56:47 -0400
 permalink:  four_semesters_of_cs
 Author: Krishel Lasam
 categories: 
-tags: [javascript, computer science]
+tags: [computer science]
 comments: false
 ---
 
