@@ -10,9 +10,14 @@ I spent my high school years in Brooklyn Technical High School as a Chemical Eng
 
 I majored in Economics at Hunter College and was elected as Webmaster for the pre-dental club by my sophomore year. Toward the end of college I got the opportunity to take elective courses such as “Introduction to Computer Science,” “Computers and Money,” and “Introduction to Python,” all of which amplified my interest in computer technology.
 
-After graduating, I explored careers that combined technology with analytical thinking and creativity – three skills that I have honed and enjoyed throughout my life. After evaluating the culmination of my past experiences, I became a full stack web developer and I am now committed to pursuing a career as a software professional.
+After graduating, I explored careers that combined technology with analytical thinking and creativity – three skills that I have honed and enjoyed throughout my life. After evaluating the culmination of my past experiences, I studied web development, networking, and data science to further my career as a technology professional.
 
-Proficient in: Ruby, Rails, Sinatra, SQL, Javascript, jQuery, React, Redux, HTML, CSS, Git, Heroku, Photoshop, Final Cut Pro 
-Exposure to: Python, C++
+TECHNICAL SKILLS
+Web Development: JavaScript, Ruby, Ruby on Rails, HTML, CSS, Sinatra, jQuery, React.js, Redux, Git, Heroku
+Data Science: Python, Pandas, Scikit-Learn, SQL, Jupyter Notebook
+Networking: IPv4, IPv6, TCP/IP, LAN, WAN, Cisco Routers, Cisco Switches
+Software: Visual Studio Code, Atom, Terminal, Microsoft Office, Windows, macOS, Linux
+
+A+ and CCNA certified.
 
 Email: krishel.lasam@gmail.com
