@@ -13,9 +13,13 @@ I majored in Economics at Hunter College and was elected as Webmaster for the pr
 After graduating, I explored careers that combined technology with analytical thinking and creativity – three skills that I have honed and enjoyed throughout my life. After evaluating the culmination of my past experiences, I studied web development, networking, and data science to further my career as a technology professional.
 
 TECHNICAL SKILLS
+
 Web Development: JavaScript, Ruby, Ruby on Rails, HTML, CSS, Sinatra, jQuery, React.js, Redux, Git, Heroku
+
 Data Science: Python, Pandas, Scikit-Learn, SQL, Jupyter Notebook
+
 Networking: IPv4, IPv6, TCP/IP, LAN, WAN, Cisco Routers, Cisco Switches
+
 Software: Visual Studio Code, Atom, Terminal, Microsoft Office, Windows, macOS, Linux
 
 A+ and CCNA certified.
