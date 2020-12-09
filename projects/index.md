@@ -132,6 +132,13 @@ Here we will build a model that will determine the approximate age of a person f
 
 ---
 
+### [Project 15 - Predicting the temperature of steel](https://github.com/krishl/data-science-projects/blob/main/project-15/ds-project-15.ipynb)
+#### Libraries used: Pandas, LightGBM, Sklearn, Catboost
+
+In order to optimize production costs, the steel plant Steelproof decided to reduce their energy consumption at the steel processing stage. A model will be developed that will be able to predict the temperature of the metal.
+
+---
+
 # Web Development
 
 ![Luminance](https://angel.co/cdn-cgi/image/width=207,height=132,format=auto,fit=scale-down/https://s3.amazonaws.com/poly-screenshots.angel.co/Project/11/610203/d5d086357fee2074c4ac3fce565d2d6a-original.png)
